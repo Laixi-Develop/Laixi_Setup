@@ -1,5 +1,4 @@
-# Laixi_Setup
-Laixi_Setup Download 
+# Laixi_Setup | **[历史版本下载](https://github.com/Laixi-Develop/Laixi_Setup/releases)** 
 来喜安卓投屏是一款专门为跨境电商打造的营销软件，它支持Facebook、Tiktok、ins、Amazon、Twitter等各大平台推广引流。无论你是想要批量关注、点赞、评论，还是自动养号、快速涨粉，来喜安卓投屏都能帮你轻松实现。
 来喜群控|来喜投屏|Auto.js|安卓群控
 
